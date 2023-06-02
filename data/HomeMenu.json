@@ -1,0 +1,21 @@
+[
+  {
+    "text": "Unternehmen",
+    "icon": "menu-user"
+  },
+  {
+    "text": "Markt",
+    "icon": "menu-marak"
+  },
+  {
+    "text": "Engagement",
+    "icon": "menu-heart"
+  },  {
+  "text": "Investment",
+  "icon": "menu-investment"
+},
+  {
+    "text": "Blog & Media",
+    "icon": "menu-blog"
+  }
+]

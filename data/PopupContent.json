@@ -1,0 +1,94 @@
+[
+  {
+    "icon": {
+      "name" : "menu-user",
+      "title" : "Unternehmen"
+    },
+    "links": [
+      {
+        "title": "Portrait",
+        "href": "/"
+      },
+      {
+        "title": "Strategie",
+        "href": "/"
+      },
+      {
+        "title": "Marken",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "icon": {
+      "name" : "menu-marak",
+      "title" : "Markt"
+    },
+    "links": [
+      {
+        "title": "Marktinformation",
+        "href": "/"
+      },
+      {
+        "title": "Forschung & Entwicklung",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "icon": {
+      "name" : "menu-heart",
+      "title" : "Engagement"
+    },
+    "links": [
+      {
+        "title": "Nachhaltigkeit",
+        "href": "/"
+      },
+      {
+        "title": "Soziales",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "icon": {
+      "name" : "menu-investment",
+      "title" : "Investment"
+    },
+    "links": [
+      {
+        "title": "Why",
+        "href": "/"
+      },
+      {
+        "title": "Eckdaten Aktien",
+        "href": "/"
+      },
+      {
+        "title": "News & Anlässe",
+        "href": "/"
+      },
+      {
+        "title": "Publikationen & Finanzen",
+        "href": "/"
+      }
+    ]
+  },
+  {
+    "icon": {
+      "name" : "menu-blog",
+      "title" : "Blog & Media"
+    },
+    "links": [
+      {
+        "title": "Blog",
+        "href": "/"
+      },
+      {
+        "title": "Publikationen / Downloads",
+        "href": "/"
+      }
+    ]
+  }
+]
